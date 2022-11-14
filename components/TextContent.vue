@@ -114,6 +114,14 @@
       </h3>
       <p>
         大会開催は、WCAやSCJのホームページで告知されます。
+      </p>
+      <p>
+        WCAホームページ：<a href="https://www.worldcubeassociation.org/" target="_blank">https://www.worldcubeassociation.org/</a>
+      </p>
+      <p>
+        SCJホームページ：<a href="https://speedcubing.or.jp/" target="_blank">https://speedcubing.or.jp/</a>
+      </p>
+      <p>
         すべての大会はWCAに専用ページが作成され、結果もそのページで公開されますが、
         日本での開催の場合企画はSCJが行っているため、基本的にはSCJからのほうが早く告知されます。
       </p>
