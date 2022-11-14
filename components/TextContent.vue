@@ -989,4 +989,7 @@ h4 {
   margin-top: 1rem;
   margin-bottom: 0.5rem;
 }
+ul {
+  list-style: none;
+}
 </style>
