@@ -33,7 +33,10 @@
       </v-container>
     </v-main>
     <v-footer :absolute="!fixed" app>
-      <span>&copy; {{ new Date().getFullYear() }} roudai.net</span>
+      <span
+        >&copy; {{ new Date().getFullYear() }}
+        <a href="https://roudai.net">roudai.net</a>
+      </span>
     </v-footer>
   </v-app>
 </template>
@@ -191,5 +194,9 @@ export default {
 <style>
 .v-icon {
   margin-right: 0.5rem;
+}
+.v-application a {
+  color: #ffffff !important;
+  text-decoration: none;
 }
 </style>
