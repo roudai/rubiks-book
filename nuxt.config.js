@@ -45,8 +45,13 @@ export default {
     '@nuxtjs/vuetify',
   ],
 
+  'google-adsense': {
+    id: 'ca-pub-3099989327540541',
+    pageLevelAds: true,
+  },
+
   // Modules: https://go.nuxtjs.dev/config-modules
-  modules: [],
+  modules: ['@nuxtjs/google-adsense'],
 
   // Vuetify module configuration: https://go.nuxtjs.dev/config-vuetify
   vuetify: {
